@@ -1,4 +1,4 @@
-# VR-assembly-workplace-
+# VR-assembly-workplace
 
 
 - Structured assembly workstations and designed scenarios of human-assistant robot cooperation using the Unity 3D software and Unreal Engine
@@ -24,6 +24,8 @@
 
 ![image](https://github.com/RuanLinya/VR-assembly-workplace-/assets/133128176/a568530a-e36d-4ada-ab58-1bbfdcf136e4)
 
+## Contact
+E-mail: ruanlinya@gmail.com
 
 ## Demo
 
